@@ -63,7 +63,7 @@ proptech-demo/
 git clone https://github.com/abeni-hub/AI_Property_Advisor.git
 cd AI_Property_Advisor
 
-
+```
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce01a134-3fc8-4deb-96e1-857b7941a98e" />
